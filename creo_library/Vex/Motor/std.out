@@ -1,0 +1,5 @@
+ERROR - C:\Program Files\PTC\Creo 3.0\M070\Common Files\text\config.pro, linenum 5 :  Keyword 'ALLOW_SAVE_FAILED_MODELS' is not valid.
+ERROR - C:\Users\harper\config.pro, linenum 66:  Keyword 'SHOW_SHADED_EDGES' is not valid.
+ERROR - C:\Users\harper\config.pro, linenum 83:  Keyword 'TOL_MODE' is not valid.
+ERROR - C:\Users\harper\config.pro, linenum 97:  Keyword 'CHAMFER_45DEG_DIM_TEXT' is not valid.
+Old Intel Graphics driver found; Disabling FBO. Please update your driver
